@@ -1,0 +1,15 @@
+G:\pProgramowania\Visual studio\Lab01\bin\Debug\net6.0\Lab01.exe
+G:\pProgramowania\Visual studio\Lab01\bin\Debug\net6.0\Lab01.deps.json
+G:\pProgramowania\Visual studio\Lab01\bin\Debug\net6.0\Lab01.runtimeconfig.json
+G:\pProgramowania\Visual studio\Lab01\bin\Debug\net6.0\Lab01.dll
+G:\pProgramowania\Visual studio\Lab01\bin\Debug\net6.0\Lab01.pdb
+G:\pProgramowania\Visual studio\Lab01\obj\Debug\net6.0\Lab01.csproj.AssemblyReference.cache
+G:\pProgramowania\Visual studio\Lab01\obj\Debug\net6.0\Lab01.GeneratedMSBuildEditorConfig.editorconfig
+G:\pProgramowania\Visual studio\Lab01\obj\Debug\net6.0\Lab01.AssemblyInfoInputs.cache
+G:\pProgramowania\Visual studio\Lab01\obj\Debug\net6.0\Lab01.AssemblyInfo.cs
+G:\pProgramowania\Visual studio\Lab01\obj\Debug\net6.0\Lab01.csproj.CoreCompileInputs.cache
+G:\pProgramowania\Visual studio\Lab01\obj\Debug\net6.0\Lab01.dll
+G:\pProgramowania\Visual studio\Lab01\obj\Debug\net6.0\refint\Lab01.dll
+G:\pProgramowania\Visual studio\Lab01\obj\Debug\net6.0\Lab01.pdb
+G:\pProgramowania\Visual studio\Lab01\obj\Debug\net6.0\Lab01.genruntimeconfig.cache
+G:\pProgramowania\Visual studio\Lab01\obj\Debug\net6.0\ref\Lab01.dll
